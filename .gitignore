@@ -1,0 +1,15 @@
+# Visual Studio / .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.db
+# Rider
+.idea/
+# Dumps and logs
+*.dmp
+*.log
+recordings/
